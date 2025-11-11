@@ -42,7 +42,7 @@ def index():
                     marker=dict(size=6)
                 ))
                 fig.update_layout(
-                    title=f'{symbol} Closing Prices (Last 30 Days)',
+                    title=f'{symbol} Closing Pricess (Last 30 Days)',
                     xaxis_title='Date',
                     yaxis_title='Close Price',
                     template="plotly_dark",
