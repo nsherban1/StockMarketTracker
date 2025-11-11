@@ -1,4 +1,0 @@
-Flask
-requests==2.31.0
-plotly==5.15.0
-gunicorn==23.0.0
